@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="floatingActionButton2" type="id" />
+    <item name="productsave" type="id" />
+    <item name="productdelete" type="id" />
+    <item name="addSampleParts" type="id" />
+    <item name="partsave" type="id" />
+    <item name="share" type="id" />
+    <item name="notify" type="id" />
+    <item name="addSampleProducts" type="id" />
+    <item name="excursionTitle" type="id" />
+    <item name="excursionDate" type="id" />
+    <item name="vacation_title" type="id" />
+    <item name="startDateTextView" type="id" />
+    <item name="endDateTextView" type="id" />
+</resources>
