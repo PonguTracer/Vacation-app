@@ -8,3 +8,13 @@ Vacation Schedular is a Android application developed to allow users to organize
 - The application will allow students to enter, edit, and delete vacation and excursion data.
 - It should provide a list and detailed views of vacations and excursions for each vacation and provide alerts for all the dates.
 - This application will use the Room Framework as an abstraction layer over the local SQLite database.
+
+### This application is built using:
+
+- Java - MVC Architecture
+- Room (SQLlite Local Database)
+- Android Studio
+
+![Uploading Flow-chart.jpg…]()
+
+
