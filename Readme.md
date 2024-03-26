@@ -14,4 +14,12 @@ This application is built using:
 - Room (SQLlite Local Database)
 - Android Studio
 
-![Alt text](Flow-chart.jpg)
+![1](https://github.com/PonguTracer/Vacation-app/assets/67764701/cd042b54-b6f3-4d04-9942-f17cad7846f9)
+
+![2](https://github.com/PonguTracer/Vacation-app/assets/67764701/ecef282e-119a-4136-88fd-f85102a8b9c9)
+
+![3](https://github.com/PonguTracer/Vacation-app/assets/67764701/21ddb39c-70c1-42f7-95e3-cdace3b07fb1)
+
+![4](https://github.com/PonguTracer/Vacation-app/assets/67764701/336b53fb-7914-4041-8e05-fdbc234e3011)
+
+
